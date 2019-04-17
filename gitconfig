@@ -1,0 +1,11 @@
+[alias]
+        co = checkout
+        ci = commit
+        cm = commit
+        st = status
+        br = branch
+        pom = pull origin master
+        ll = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+[user]
+        email = <email_address@email>
+        name = dhara.singh
